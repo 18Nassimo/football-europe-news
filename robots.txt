@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Sitemap: https://18Nassimo.github.io/football-europe-news/sitemap.xml
+
+# Optimisation pour Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 0
+
+# Optimisation pour Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 0
